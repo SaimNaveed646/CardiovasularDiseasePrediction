@@ -65,6 +65,5 @@ streamlit run frontend.py
 The API will run at: http://127.0.0.1:8000
 Check docs at: http://127.0.0.1:8000/docs
 
----
 
 
