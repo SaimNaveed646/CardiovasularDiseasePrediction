@@ -59,7 +59,7 @@ myenv\Scripts\activate
 pip install -r fastapi/requirements.txt
 Running the FastAPI Backend
 cd fastapi
-uvicorn main:app --reload
+uvicorn app:app --reload
 streamlit run frontend.py
 
 The API will run at: http://127.0.0.1:8000
